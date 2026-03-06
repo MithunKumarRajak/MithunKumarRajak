@@ -51,24 +51,24 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithunKumarRajak&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MithunKumarRajak&theme=transparent&hide_border=false&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MithunKumarRajak&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MithunKumarRajak&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunKumarRajak&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunKumarRajak&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ### 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MithunKumarRajak&theme=default&no-frame=false&no-bg=false&margin-w=4&v=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MithunKumarRajak&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
   <p><b>Random Dev Quote</b></p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
 
 <br>
