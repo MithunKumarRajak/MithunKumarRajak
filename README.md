@@ -11,7 +11,7 @@
 
 - 🔭 **Currently building:** **ResumeScanner**, an ML-based resume screening and optimization platform.
 - 🌱 **Currently exploring:** Machine Learning, Natural Language Processing (NLP), and modern backend frameworks (FastAPI/Django).
-- 🛡️ **Certifications:** Certified Ethical Hacker (CEH v12), Google Cybersecurity Professional, and Google AI Essentials.
+- 🛡️ **Certifications:** Ethical Hacker, Google Cybersecurity Professional, and Google AI Essentials.
 - 💻 **Specialties:** Penetration Testing, Incident Response, Vulnerability Analysis, and Full-Stack Web Development.
 - 🤝 **Looking to collaborate on:** Innovative open-source projects, ethical hacking challenges, and scalable web applications.
 - ⚡ **Fun Fact:** When I'm not coding or hunting for vulnerabilities, you can probably find me at the gym.
