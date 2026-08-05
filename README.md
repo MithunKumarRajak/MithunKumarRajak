@@ -1,80 +1,225 @@
-<h1 align="center">Hi there, I'm Mithun Kumar Rajak 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Full-Stack Developer | ML & NLP Explorer</h3>
+<div align="center">
 
-<p align="center">
-  A 3rd-year B.Tech Computer Science student at Jagran Lakecity University (Class of 2027), driven by curiosity and a desire to solve real-world problems. I blend a strong foundation in secure network fundamentals with a growing expertise in scalable software development.
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=MithunKumarRajak&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<!-- Animated Typing Header -->
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mithun+Kumar+Rajak;Cybersecurity+Enthusiast+%7C+Full-Stack+Developer;ML+%26+NLP+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <em>3rd-year B.Tech Computer Science student at Jagran Lakecity University (Class of 2027).<br/>I enjoy building secure, scalable systems and exploring machine learning and NLP.</em>
 </p>
 
----
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/mithun-kumar-rajak/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://discord.com/users/mithun_mkr">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://github.com/MithunKumarRajak">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-### 💫 About Me
-
-- 🔭 **Currently building:** **ResumeScanner**, an ML-based resume screening and optimization platform.
-- 🌱 **Currently exploring:** Machine Learning, Natural Language Processing (NLP), and modern backend frameworks (FastAPI/Django).
-- 🛡️ **Certifications:** Ethical Hacker, Google Cybersecurity Professional, and Google AI Essentials.
-- 💻 **Specialties:** Penetration Testing, Incident Response, Vulnerability Analysis, and Full-Stack Web Development.
-- 🤝 **Looking to collaborate on:** Innovative open-source projects, ethical hacking challenges, and scalable web applications.
-- ⚡ **Fun Fact:** When I'm not coding or hunting for vulnerabilities, you can probably find me at the gym.
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://discord.com/users/mithun_mkr" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mithun-kumar-rajak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:singalkumar1210+github@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-**Programming Languages**<br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-
-**Frontend & Design**<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-**Backend & Databases**<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-
-**DevOps, Cloud & Security**<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithunKumarRajak&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MithunKumarRajak&theme=transparent&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunKumarRajak&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MithunKumarRajak&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
+## 🧭 Table of Contents
+
+- [About Me](#-about-me)
+- [GitHub Stats](#-github-stats)
+- [Tech Stack](#-tech-stack)
+- [Projects](#-projects)
+- [Contribution Snake](#-contribution-snake)
+- [Connect](#-connect)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🔭 Currently building: **ResumeScanner** — an ML-based resume screening and optimization platform
+- 🌱 Exploring: Machine Learning, NLP, and backend frameworks (FastAPI/Django)
+- 🛡️ Certifications: Ethical Hacker, Google Cybersecurity Professional, Google AI Essentials
+- 💬 Ask me about: Cybersecurity, Full-Stack Development, Python, ML/NLP
+- ⚡ Fun fact: I break things to learn how to build them stronger 🔐
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <p><b>Random Dev Quote</b></p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+
+<!-- Profile Summary Cards (generated by GitHub Action — always reliable) -->
+<a href="https://github.com/MithunKumarRajak">
+  <img src="https://raw.githubusercontent.com/MithunKumarRajak/MithunKumarRajak/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</a>
+
+<br/>
+
+<a href="https://github.com/MithunKumarRajak">
+  <img height="180em" src="https://raw.githubusercontent.com/MithunKumarRajak/MithunKumarRajak/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+</a>
+<a href="https://github.com/MithunKumarRajak">
+  <img height="180em" src="https://raw.githubusercontent.com/MithunKumarRajak/MithunKumarRajak/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+</a>
+
+<br/>
+
+<a href="https://github.com/MithunKumarRajak">
+  <img height="180em" src="https://raw.githubusercontent.com/MithunKumarRajak/MithunKumarRajak/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+</a>
+<a href="https://github.com/MithunKumarRajak">
+  <img height="180em" src="https://raw.githubusercontent.com/MithunKumarRajak/MithunKumarRajak/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+</a>
+
+<br/>
+
+<!-- GitHub Streak -->
+<a href="https://github.com/MithunKumarRajak">
+  <img src="https://streak-stats.demolab.com/?user=MithunKumarRajak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
 </div>
 
-<br>
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MithunKumarRajak&icon=0&color=0" alt="Profile Views" />
-  </a>
+
+#### 💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Backend & Frameworks
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ResumeScanner</h3>
+      <p align="center">
+        <a href="https://github.com/MithunKumarRajak" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        ML-based resume screening and optimization platform. Uses NLP to analyze, score, and provide actionable feedback on resumes.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">More Coming Soon...</h3>
+      <p align="center">
+        🔨 Building something awesome
+      </p>
+      <p align="center">
+        <em>Stay tuned for more projects!</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MithunKumarRajak/MithunKumarRajak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MithunKumarRajak/MithunKumarRajak/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MithunKumarRajak/MithunKumarRajak/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<p>Prefer contact via GitHub or LinkedIn. Email omitted to reduce automated scraping.</p>
+
+<a href="https://www.linkedin.com/in/mithun-kumar-rajak/">
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://discord.com/users/mithun_mkr">
+  <img src="https://img.shields.io/badge/Chat_on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open issues or pull requests; for larger changes, start a discussion or open an issue describing the proposal. See `CONTRIBUTING.md` for a short guideline.
+
+## 📜 License
+
+This repository is licensed under the MIT License — see the `LICENSE` file for details.
+
+---
+
+<div align="center">
+
+  Made with ❤️ by **Mithun Kumar Rajak**
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
 </div>

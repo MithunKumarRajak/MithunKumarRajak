@@ -1,0 +1,27 @@
+# GitHub Profile Summary Cards
+# Generates stats cards as static SVGs stored in the repo
+# No external API dependency — images always load
+
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Runs at 00:15 UTC every day
+    - cron: "15 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Profile Summary Cards
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
