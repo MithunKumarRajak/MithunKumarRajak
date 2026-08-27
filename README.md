@@ -12,7 +12,7 @@
 <br/>
 
 <p>
-  <em>3rd-year B.Tech Computer Science student at Jagran Lakecity University (Class of 2027).<br/>I enjoy building secure, scalable systems and exploring machine learning and NLP.</em>
+  <em>Final-year B.Tech Computer Science student at Jagran Lakecity University (Class of 2027).<br/>I enjoy building secure, scalable systems and exploring machine learning and NLP.</em>
 </p>
 
 <!-- Social Badges -->
@@ -32,16 +32,18 @@
 
 ## 🧭 Table of Contents
 
-- [About Me](#-about-me)
-- [GitHub Stats](#-github-stats)
-- [Tech Stack](#-tech-stack)
-- [Projects](#-projects)
-- [Contribution Snake](#-contribution-snake)
-- [Connect](#-connect)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [About Me](#about-me)
+- [GitHub Stats](#github-stats)
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+- [Contribution Snake](#contribution-snake)
+- [Connect](#connect)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
+
+<a id="about-me"></a>
 
 ## 🙋‍♂️ About Me
 
@@ -52,6 +54,8 @@
 - ⚡ Fun fact: I break things to learn how to build them stronger 🔐
 
 ---
+
+<a id="github-stats"></a>
 
 ## 📊 GitHub Stats
 
@@ -90,6 +94,8 @@
 </div>
 
 ---
+
+<a id="tech-stack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -141,6 +147,8 @@
 
 ---
 
+<a id="projects"></a>
+
 ## 🚀 Projects
 
 <table>
@@ -148,7 +156,7 @@
     <td width="50%">
       <h3 align="center">ResumeScanner</h3>
       <p align="center">
-        <a href="https://github.com/MithunKumarRajak" target="_blank">
+        <a href="https://github.com/MithunKumarRajak/ResumeScanner" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
       </p>
@@ -162,18 +170,61 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">More Coming Soon...</h3>
+      <h3 align="center">PulseWatch</h3>
       <p align="center">
-        🔨 Building something awesome
+        <a href="https://github.com/MithunKumarRajak/PulseWatch" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
       </p>
       <p align="center">
-        <em>Stay tuned for more projects!</em>
+        A hybrid predictive system for employee burnout. Combines XGBoost regression for stress scoring with an Ensemble Voting Classifier for risk classification.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-EC6A37?style=flat-square&logo=xgboost&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Interview Trainer Agent</h3>
+      <p align="center">
+        <a href="https://github.com/MithunKumarRajak/Interview-trainer-agent" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        AI-powered mock interview coach built on IBM Granite (watsonx.ai) + RAG. Parses resumes, generates role-specific questions, and delivers performance reports.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/IBM_Granite-054ADA?style=flat-square&logo=ibm&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Smart Shop (E-Commerce)</h3>
+      <p align="center">
+        <a href="https://github.com/MithunKumarRajak/e-commerce" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        Full-featured e-commerce platform with modern UI/UX, secure payment processing (PayPal, Razorpay), and comprehensive order management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
 </table>
 
 ---
+
+<a id="contribution-snake"></a>
 
 ## 🐍 Contribution Snake
 
@@ -189,11 +240,13 @@
 
 ---
 
-## 🤝 Connect
+<a id="connect"></a>
+
+## 📬 Connect
 
 <div align="center">
 
-<p>Prefer contact via GitHub or LinkedIn. Email omitted to reduce automated scraping.</p>
+<p>Feel free to reach out — I'm always open to collaboration and conversations!</p>
 
 <a href="https://www.linkedin.com/in/mithun-kumar-rajak/">
   <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -201,14 +254,21 @@
 <a href="https://discord.com/users/mithun_mkr">
   <img src="https://img.shields.io/badge/Chat_on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
+<a href="mailto:mithunrajak.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
+<a id="contributing"></a>
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues or pull requests; for larger changes, start a discussion or open an issue describing the proposal. See `CONTRIBUTING.md` for a short guideline.
+
+<a id="license"></a>
 
 ## 📜 License
 
